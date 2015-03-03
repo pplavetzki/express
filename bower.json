@@ -1,0 +1,16 @@
+{
+  "name": "express-app",
+  "version": "0.0.1",
+  "authors": [
+    "pplavetzki <paul@pareidoliasw.com>"
+  ],
+  "description": "none",
+  "main": "app.js",
+  "moduleType": [
+    "amd",
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "pareidoliasw.com",
+  "private": true
+}
