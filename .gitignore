@@ -36,5 +36,10 @@
 ehthumbs.db
 Thumbs.db
 
+.idea/
+*.iml
+*.ipr
+*.iws
+
 node_modules/
 bower_components/
